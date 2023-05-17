@@ -1,4 +1,4 @@
-<a href="#" target="_blank"><img align="center" src="file:///C:/Users/Iglesias/Downloads/Sem%20nome%20(1700%C2%A0%C3%97%C2%A0200%C2%A0px)%20(1500%C2%A0%C3%97%C2%A0200%C2%A0px).svg"/><a/>
+<img src="file:///C:/Users/Iglesias/Downloads/Sem%20nome%20(1700%C2%A0%C3%97%C2%A0200%C2%A0px)%20(1500%C2%A0%C3%97%C2%A0200%C2%A0px).svg"/>
  
  
 <!--  ## Dev sejam bem vindos, me chamo Iris Iglesias.  -->
