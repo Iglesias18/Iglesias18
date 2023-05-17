@@ -1,4 +1,5 @@
 <a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/05/18/UnroW0.Black-Computer-Flatlay-Linkedin-Banner-2.png"/><a/>
+ 
 <div align="center">
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADris-grego-iglesias-280826226/)
@@ -7,7 +8,6 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@irisiglesias34)
 
 
-<div align="center">  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iglesias18&show_icons=true&theme=radical">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iglesias18&layout=compact&langs_count=7&theme=radical">
 <br><br>
