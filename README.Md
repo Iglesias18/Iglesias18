@@ -14,8 +14,6 @@
 <br><br>
   
   [![Skill](https://skillicons.dev/icons?i=html,css,js,vscode,git,mysql)](https://skillicons.dev)
-  
-</div>
- 
-    ![Snake animation](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
 
+</div>
