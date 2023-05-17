@@ -1,4 +1,4 @@
-<a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/05/18/Unlg39.Design-sem-nome.png"/><a/>
+<a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/05/18/Unln4P.Black-Computer-Flatlay-Linkedin-Banner-1.png"/><a/>
 <div align="center">
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADris-grego-iglesias-280826226/)
