@@ -17,4 +17,4 @@
   ![Snake animation](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<a href="https://birobirobiro.dev/" target="_blank"><img align="center" src="https://i.ibb.co/TRtdCbK/cover.jpg"/><a/>
+
