@@ -16,4 +16,4 @@
 </div>
  
   
-  ![snake gif](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
+
