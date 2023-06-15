@@ -14,8 +14,8 @@
   <img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
 
 </div>
-<tr />
-<br />
+<hr />
+
 
 <h2 align="center"> * Tecnologias * </h2>
 
@@ -29,9 +29,9 @@
 
 
 </div>
-<tr />
-<br />
+ <br />
 
+<hr />
 <h2 align="center"> * Ferramentas, Ambientes e Desenvolvimento * </h2>
 
 <div align="center">
@@ -43,8 +43,7 @@
   <img height="30px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-<tr />
-<br />
+<hr />
 
 <h2 align="center"> * Redes e Contatos * </h2>
 
