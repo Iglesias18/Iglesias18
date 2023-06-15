@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iglesias18&layout=compact&langs_count=7&theme=radical">
 <br><br>
 
-<h2 align="center">  * Estudando Atualmente *</h2>
+<h2 align="center">  * Estudando Atualmente * </h2>
 
 <div align="center">
   <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
@@ -33,7 +33,7 @@
   <br />
 
 <hr />
-<h2 align="center"> *🛠 Ferramentas, Ambientes e Desenvolvimento * </h2>
+<h2 align="center"> * Ferramentas, Ambientes e Desenvolvimento * </h2>
 
 <div align="center">
   <img height="30px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  />
@@ -47,7 +47,7 @@
 
 <hr />
 
-<h2 align="center"> * ✉ Redes e Contatos *</h2>
+<h2 align="center"> * Redes e Contatos * </h2>
 
 <div align="center">
 
