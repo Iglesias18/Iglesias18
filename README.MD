@@ -14,7 +14,7 @@
   <img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
 
 </div>
-
+<tr />
 <br />
 
 <h2 align="center"> * Tecnologias * </h2>
@@ -29,7 +29,7 @@
 
 
 </div>
-
+<tr />
 <br />
 
 <h2 align="center"> * Ferramentas, Ambientes e Desenvolvimento * </h2>
@@ -43,7 +43,7 @@
   <img height="30px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
+<tr />
 <br />
 
 <h2 align="center"> * Redes e Contatos * </h2>
@@ -56,7 +56,7 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@irisiglesias34)
 
 </div>
-
+<tr />
 <br />
   
   ![Snake animation](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
