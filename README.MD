@@ -30,7 +30,7 @@
 
 </div>
 
-  <br />
+ <hr />
 
 <hr />
 <h2 align="center"> * Ferramentas, Ambientes e Desenvolvimento * </h2>
@@ -57,7 +57,7 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@irisiglesias34)
 
 </div>
-
+<hr />
   
   ![Snake animation](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
 
