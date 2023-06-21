@@ -1,7 +1,4 @@
 
-<a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/>
-
-<a/>
 
  <div align="center">
 
@@ -68,3 +65,5 @@
   ![Snake animation](https://github.com/Iglesias18/Iglesias18/blob/output/github-contribution-grid-snake.svg)
 
 
+
+<a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/><a/>
