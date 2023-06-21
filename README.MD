@@ -1,8 +1,9 @@
+<div>
 <p align="center">
 <h1>Olá, me chamo Iris Grego Iglesias</h1>
 <h2>FRONT END DEVELOPER</h2>
 </p>
-
+</div>
  <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iglesias18&show_icons=true&theme=radical">
