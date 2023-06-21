@@ -1,6 +1,6 @@
-
-<img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/>
-
+<p align="center">
+<img src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/>
+</p>
 
  <div align="center">
 
