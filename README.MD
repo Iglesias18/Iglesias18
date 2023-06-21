@@ -1,5 +1,7 @@
 
-<a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/><a/>
+<a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/>
+
+<a/>
 
  <div align="center">
 
@@ -9,13 +11,13 @@
 
 <h2 align="center">  * Estudando Atualmente * </h2>
 
+</div>
+
 <div align="center">
   <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
   <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
 
-</div>
-</div>
 <hr />
 
 
