@@ -1,5 +1,5 @@
 
-<img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/><a/>
+<img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/>
 
 
  <div align="center">
