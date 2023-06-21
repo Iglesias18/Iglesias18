@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=910f43c&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+My+name+is+Iris+Iglesias;I'm+31+years+old;I'm+from+Brazil;Front+End+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=830024c&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;+My+name+is+Iris+Iglesias;I'm+31+years+old;I'm+from+Brazil;Front+End+Developer;)](https://git.io/typing-svg)
 
 <p align="center">
 
