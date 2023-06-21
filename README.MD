@@ -1,5 +1,5 @@
 <a href="#" target="_blank"><img align="center" src="https://i.im.ge/2023/06/21/iKuasr.Banner.png">
-<a/>
+
 
  <div align="center">
 
