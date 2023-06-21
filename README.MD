@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.im.ge/2023/06/21/iKuasr.Banner.png"/>
+<h1>Olá, me chamo Iris Grego Iglesias</h1>
+<h2>FRONT END DEVELOPER</h2>
 </p>
 
  <div align="center">
